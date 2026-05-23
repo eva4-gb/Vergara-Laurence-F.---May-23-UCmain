@@ -1,0 +1,8 @@
+===== EVENT REGISTRATION REPORT =====
+Generated At: 5/23/2026 4:02:44 PM
+
+ID: EVT-639151487316218900 | Name: Evamarie | Event: Wala | Active: False
+ID: EVT-639151487847067120 | Name: eva | Event: sample | Active: True
+
+Total Active Records: 1
+Total Inactive Records: 1

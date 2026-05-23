@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qviyoY5GQbQfPI7KobOfm5VrDH2yGdJPc+yBzRkdOyNGJLG9yJymwp8WjnakMTZ3pt+0WQyXFS4XpZywAG8LYg==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/EventRegistrations.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

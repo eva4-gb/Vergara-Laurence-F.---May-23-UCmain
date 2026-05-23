@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.AssemblyInfo.cs
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/bin/Debug/net6.0/EventRegistrations
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/bin/Debug/net6.0/EventRegistrations.deps.json
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/bin/Debug/net6.0/EventRegistrations.runtimeconfig.json
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/bin/Debug/net6.0/EventRegistrations.dll
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/bin/Debug/net6.0/EventRegistrations.pdb
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.dll
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/refint/EventRegistrations.dll
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.pdb
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/EventRegistrations.genruntimeconfig.cache
+/Users/macbookpro/Projects/EventRegistrations/EventRegistrations/obj/Debug/net6.0/ref/EventRegistrations.dll
